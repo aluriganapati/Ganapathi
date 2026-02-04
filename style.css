@@ -59,7 +59,7 @@ body{
 }
 
 /* Responsive: make photo smaller on narrow screens */
-@media (max-width:480px){
+@media(max-width:480px){
   .photo{ width:140px; height:140px; border-width:5px; }
 }
 
@@ -489,4 +489,5 @@ footer{
 .project p {
     font-size: 15px;
     color: #288ed1;
+
 }
